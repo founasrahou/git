@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c9959de3-aa52-42fc-9dcf-31a33d17f42e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/test/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git/test/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/test/ReserveRoom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git/test/ReserveRoom.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +41,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReserveRoom">
+  <component name="RunManager" selected="Application.Login1">
     <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Login" />
+      <module name="Git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Login1" />
       <module name="Git" />
       <extension name="coverage">
         <pattern>
@@ -81,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Login1" />
         <item itemvalue="Application.ReserveRoom" />
         <item itemvalue="Application.Logout" />
         <item itemvalue="Application.Login" />
@@ -105,7 +121,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
